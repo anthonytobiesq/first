@@ -1,0 +1,35 @@
+
+
+*{
+  font-family: "sans-serif", "arial", "tahoma";
+ }
+
+ header h1{color: purple;
+
+          }
+
+
+  .discountmessage{
+                     font-size:10px
+                   }
+
+    ul>li{
+           color: orange;
+          }
+
+    h2{
+              color:grey;
+            }
+
+
+h4+p{
+  color:grey;
+  font-size: 15px;
+     }
+
+    <!-- take note you can use ~ to design   sibling under a parent tag if you cannot use + !--> 
+
+p {
+  color: green;
+  front size: 20px;
+  }
